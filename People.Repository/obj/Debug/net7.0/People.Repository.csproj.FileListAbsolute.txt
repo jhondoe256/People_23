@@ -1,0 +1,15 @@
+C:\StudentNotes\RepositoryPattern\People.Repository\bin\Debug\net7.0\People.Repository.deps.json
+C:\StudentNotes\RepositoryPattern\People.Repository\bin\Debug\net7.0\People.Repository.dll
+C:\StudentNotes\RepositoryPattern\People.Repository\bin\Debug\net7.0\People.Repository.pdb
+C:\StudentNotes\RepositoryPattern\People.Repository\bin\Debug\net7.0\People.Data.dll
+C:\StudentNotes\RepositoryPattern\People.Repository\bin\Debug\net7.0\People.Data.pdb
+C:\StudentNotes\RepositoryPattern\People.Repository\obj\Debug\net7.0\People.Repository.csproj.AssemblyReference.cache
+C:\StudentNotes\RepositoryPattern\People.Repository\obj\Debug\net7.0\People.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\StudentNotes\RepositoryPattern\People.Repository\obj\Debug\net7.0\People.Repository.AssemblyInfoInputs.cache
+C:\StudentNotes\RepositoryPattern\People.Repository\obj\Debug\net7.0\People.Repository.AssemblyInfo.cs
+C:\StudentNotes\RepositoryPattern\People.Repository\obj\Debug\net7.0\People.Repository.csproj.CoreCompileInputs.cache
+C:\StudentNotes\RepositoryPattern\People.Repository\obj\Debug\net7.0\People.Repository.csproj.CopyComplete
+C:\StudentNotes\RepositoryPattern\People.Repository\obj\Debug\net7.0\People.Repository.dll
+C:\StudentNotes\RepositoryPattern\People.Repository\obj\Debug\net7.0\refint\People.Repository.dll
+C:\StudentNotes\RepositoryPattern\People.Repository\obj\Debug\net7.0\People.Repository.pdb
+C:\StudentNotes\RepositoryPattern\People.Repository\obj\Debug\net7.0\ref\People.Repository.dll

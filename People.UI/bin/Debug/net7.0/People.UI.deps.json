@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "People.UI/1.0.0": {
+        "dependencies": {
+          "People.Data": "1.0.0",
+          "People.Repository": "1.0.0"
+        },
+        "runtime": {
+          "People.UI.dll": {}
+        }
+      },
+      "People.Data/1.0.0": {
+        "runtime": {
+          "People.Data.dll": {}
+        }
+      },
+      "People.Repository/1.0.0": {
+        "dependencies": {
+          "People.Data": "1.0.0"
+        },
+        "runtime": {
+          "People.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "People.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "People.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "People.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

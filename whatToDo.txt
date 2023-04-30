@@ -1,0 +1,4 @@
+Connecting Projects:
+dotnet add .\People.UI\ reference .\People.Data\
+dotnet add .\People.UI\ reference .\People.Repository\
+dotnet add .\People.Repository\ reference .\People.Data\ 

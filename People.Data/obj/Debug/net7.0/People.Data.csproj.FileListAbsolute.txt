@@ -1,0 +1,12 @@
+C:\StudentNotes\RepositoryPattern\People.Data\bin\Debug\net7.0\People.Data.deps.json
+C:\StudentNotes\RepositoryPattern\People.Data\bin\Debug\net7.0\People.Data.dll
+C:\StudentNotes\RepositoryPattern\People.Data\bin\Debug\net7.0\People.Data.pdb
+C:\StudentNotes\RepositoryPattern\People.Data\obj\Debug\net7.0\People.Data.csproj.AssemblyReference.cache
+C:\StudentNotes\RepositoryPattern\People.Data\obj\Debug\net7.0\People.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\StudentNotes\RepositoryPattern\People.Data\obj\Debug\net7.0\People.Data.AssemblyInfoInputs.cache
+C:\StudentNotes\RepositoryPattern\People.Data\obj\Debug\net7.0\People.Data.AssemblyInfo.cs
+C:\StudentNotes\RepositoryPattern\People.Data\obj\Debug\net7.0\People.Data.csproj.CoreCompileInputs.cache
+C:\StudentNotes\RepositoryPattern\People.Data\obj\Debug\net7.0\People.Data.dll
+C:\StudentNotes\RepositoryPattern\People.Data\obj\Debug\net7.0\refint\People.Data.dll
+C:\StudentNotes\RepositoryPattern\People.Data\obj\Debug\net7.0\People.Data.pdb
+C:\StudentNotes\RepositoryPattern\People.Data\obj\Debug\net7.0\ref\People.Data.dll
